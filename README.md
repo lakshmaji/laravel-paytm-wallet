@@ -1,5 +1,3 @@
-# This was fork from https://github.com/anandsiddharth/laravel-paytm-wallet repository
-
 # Laravel Paytm Wallet
 
 [![Latest Stable Version](https://poser.pugx.org/anandsiddharth/laravel-paytm-wallet/v/stable)](https://packagist.org/packages/anandsiddharth/laravel-paytm-wallet)
